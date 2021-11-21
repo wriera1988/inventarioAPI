@@ -47,8 +47,9 @@
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <center>
-                        <b>API REST PARA EL APP ANDROID DE INVETARIO LEVANTADO</b><br/>
-                        Alejandro Riera
+                        <b>API REST PARA EL APP ANDROID DE INVENTARIO LEVANTADO</b><br/>
+                        Alejandro Riera - Jairo Lomas <br/>
+                        Proyecto Desarrollos Moviles
                     </center>
                 </div>
                 
